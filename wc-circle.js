@@ -85,7 +85,7 @@ class circle extends HTMLElement {
                 shadowRoot.getElementById('wc_circle').style.minHeight = newVal + "vh";
                 break;
             case "width":
-                shadowRoot.getElementById('wc_circle').style.width = newVal + "%";
+                shadowRoot.getElementById('wc_circle').style.width = newVal + "em";
                 break;
             case "wc-border":
                 var border = shadowRoot.querySelector(".circle");
