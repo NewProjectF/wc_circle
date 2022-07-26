@@ -6,10 +6,11 @@ wc_circle es un componente de JS que se puede aplicar a un proyecto para encapsu
 
 ## COMO USARLO 💻
 
-1. Descargarse el Web Component.
+1. Descárguese el Web Component.
 2. Agregue el Web Component a su proyecto.
 3. Enlace el JS del Web Component al archivo HTML de su proyecto. **\<script src="wc-circle.js"\>\</script\>**.
 4. Añada la etiqueta **\<wc-circle\>\</wc-circle\>** en el apartado del HTML donde lo quiera usar y ¡listo! Ya funcionaría.
+5. Adicionalmente puede añadir los atributos abajo mencionados para cambiar el comportamiento del componente.
 
 ## ATRIBUTOS ADMITIDOS 👍
 
